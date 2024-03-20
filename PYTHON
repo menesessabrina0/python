@@ -1,0 +1,19 @@
+
+exemplo de uma estrutura de repetição (loop) e uma estrutura de tomada de decisão (condicional) em Python:
+
+# Estrutura de repetição (loop)
+for i in range(5):
+    print("Número:", i)
+
+# Estrutura de tomada de decisão (condicional)
+numero = int(input("Digite um número: "))
+
+if numero > 0:
+    print("O número é positivo.")
+elif numero < 0:
+    print("O número é negativo.")
+else:
+    print("O número é zero.") 
+
+loop for imprime os números de 0 a 4, e a estrutura if, elif e else verifica se o número digitado pelo usuário é positivo, negativo ou zero e imprime uma mensagem correspondente.
+ 
