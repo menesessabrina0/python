@@ -17,3 +17,11 @@ else:
 
 loop for imprime os números de 0 a 4, e a estrutura if, elif e else verifica se o número digitado pelo usuário é positivo, negativo ou zero e imprime uma mensagem correspondente.
  
+comprovante de execução: 
+Número:0
+Número:1 
+Número:2
+Número:3
+Número:4
+O número é positivo. 
+=== Code Execution Successful===
